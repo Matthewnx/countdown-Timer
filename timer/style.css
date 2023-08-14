@@ -1,0 +1,69 @@
+body
+{
+    background-color: #7286D3;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    height: 90dvh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+.title
+{
+    font-size: 30px;
+}
+
+.timer
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.timer-number
+{
+    margin: 0px 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.number
+{
+    padding: 25px 27px;
+    background-color: #8EA7E9;
+    margin: 0px 10px;
+    font-size: 40px;
+    color: #FFF2F2;
+    font-weight: 700;
+}
+.name
+{
+    background-color: #E5E0FF;
+    margin: 0px 10px;
+    padding: 5px;
+    color: black;
+    font-weight: 600;
+}
+
+.copyright
+{
+    direction: rtl;
+}
+a
+{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 500;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius:5px;
+    padding: 0px 5px;
+    background-color: #8EA7E9;
+}
+
+ion-icon
+{
+    position: relative;
+    font-size: 30px;
+    bottom: -7px;
+}
