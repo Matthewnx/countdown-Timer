@@ -1,5 +1,5 @@
 
-const targetDate = new Date('2023-08-17T12:00:00');
+const targetDate = new Date('2023-12-25T12:00:00');
 
 const day = document.getElementById('days');
 const hr = document.getElementById('hour');
