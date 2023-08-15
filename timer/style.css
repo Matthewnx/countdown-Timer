@@ -12,7 +12,9 @@ body
 }
 .title
 {
-    font-size: 30px;
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 10px;
 }
 
 .timer
