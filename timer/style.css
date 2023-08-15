@@ -17,11 +17,12 @@ body
     font-size: 40px;
     font-weight: 700;
     letter-spacing: 10px;
-    animation: 3s backgroundchange infinite;
-    background: linear-gradient(45deg, rgb(24, 40, 255),rgb(255, 41, 237));
+    filter: drop-shadow(0px 5px 5px rgba(0, 0, 0, 0.2));
+    background: white;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
+    animation: 1s backgroundanimation infinite ;
 }
 
 .timer
@@ -75,16 +76,4 @@ ion-icon
     position: relative;
     font-size: 30px;
     bottom: -7px;
-}
-
-@keyframes backgroundchange 
-{
-    0%
-    {
-        background-size: 0%;
-    }
-    100%
-    {
-        background-size: 100%;
-    }
 }
