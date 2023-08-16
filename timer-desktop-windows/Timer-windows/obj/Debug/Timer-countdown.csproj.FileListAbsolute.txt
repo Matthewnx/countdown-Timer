@@ -1,0 +1,15 @@
+C:\Users\matin\Desktop\Timer-desktop\Timer-countdown\Timer-countdown\bin\Debug\Timer-countdown.exe.config
+C:\Users\matin\Desktop\Timer-desktop\Timer-countdown\Timer-countdown\bin\Debug\Timer-countdown.exe
+C:\Users\matin\Desktop\Timer-desktop\Timer-countdown\Timer-countdown\bin\Debug\Timer-countdown.pdb
+C:\Users\matin\Desktop\Timer-desktop\Timer-countdown\Timer-countdown\obj\Debug\Timer-countdown.csprojAssemblyReference.cache
+C:\Users\matin\Desktop\Timer-desktop\Timer-countdown\Timer-countdown\obj\Debug\MainWindow.g.cs
+C:\Users\matin\Desktop\Timer-desktop\Timer-countdown\Timer-countdown\obj\Debug\App.g.cs
+C:\Users\matin\Desktop\Timer-desktop\Timer-countdown\Timer-countdown\obj\Debug\Timer-countdown_MarkupCompile.cache
+C:\Users\matin\Desktop\Timer-desktop\Timer-countdown\Timer-countdown\obj\Debug\Timer-countdown_MarkupCompile.lref
+C:\Users\matin\Desktop\Timer-desktop\Timer-countdown\Timer-countdown\obj\Debug\MainWindow.baml
+C:\Users\matin\Desktop\Timer-desktop\Timer-countdown\Timer-countdown\obj\Debug\Timer-countdown.g.resources
+C:\Users\matin\Desktop\Timer-desktop\Timer-countdown\Timer-countdown\obj\Debug\Timer_countdown.Properties.Resources.resources
+C:\Users\matin\Desktop\Timer-desktop\Timer-countdown\Timer-countdown\obj\Debug\Timer-countdown.csproj.GenerateResource.cache
+C:\Users\matin\Desktop\Timer-desktop\Timer-countdown\Timer-countdown\obj\Debug\Timer-countdown.csproj.CoreCompileInputs.cache
+C:\Users\matin\Desktop\Timer-desktop\Timer-countdown\Timer-countdown\obj\Debug\Timer-countdown.exe
+C:\Users\matin\Desktop\Timer-desktop\Timer-countdown\Timer-countdown\obj\Debug\Timer-countdown.pdb
