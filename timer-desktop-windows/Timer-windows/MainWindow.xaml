@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="720" Width="1280" ResizeMode="CanMinimize">
     <Grid Margin="0,0,2,0" Background="#FFDDE6ED">
-        <TextBlock Margin="0,100,348,0" TextWrapping="Wrap" Text="launch timer countdown" Height="76" Width="564" FontSize="48" FontFamily="Segoe UI Semibold" VerticalAlignment="Top" HorizontalAlignment="Right" Foreground="#FF27374D"/>
+        <TextBlock Margin="0,100,348,0" TextWrapping="Wrap" Text="launch countdown timer" Height="76" Width="564" FontSize="48" FontFamily="Segoe UI Semibold" VerticalAlignment="Top" HorizontalAlignment="Right" Foreground="#FF27374D"/>
         <Grid Margin="0,280,269,0" Background="#526D82" VerticalAlignment="Top" Height="168" HorizontalAlignment="Right">
             <Grid.RowDefinitions>
 
